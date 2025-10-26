@@ -1,0 +1,16 @@
+body {
+    background-color: blueviolet;
+}
+
+header {
+    background: #1a1a1a;
+    color: whitesmoke;
+}
+
+nav {
+    margin: 10;
+}
+
+nav a:hover{
+    color:antiquewhite;
+}
